@@ -37,7 +37,10 @@
     display: flex;
 }
 
-.contenedor-numero h3 {
+.contenedor-numero a {
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
+    color: white;
     margin: 0px 10px;
 }
 
